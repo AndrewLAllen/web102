@@ -18,8 +18,9 @@ src: local('?'),
 	font-style: normal;
 }
 
-div a {
+.textMIB{
 	font-family: 'mib','Frijole', cursive;
+	color: #E15A32
 }
 
 .emergency {
